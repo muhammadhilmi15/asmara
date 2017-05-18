@@ -4,7 +4,7 @@
 <li class="xn-openable">
     <a href="#"><span class="fa fa-list"></span> <span class="xn-text">Referensi</span></a>
     <ul class="animated zoomIn">
-        <li><a href="pages-gallery.html"></span>Klasifikasi Surat</a></li>
+        <li><a href="#"></span>Klasifikasi Surat</a></li>
     </ul>
 </li>
 <li class="xn-openable">

@@ -1,5 +1,5 @@
 <div class="page-title">
-    <h2><span class="fa fa-arrow-circle-o-left"></span> Selamat Datang Superadmin</h2>
+    <h2><span class="fa fa-arrow-circle-o-left"></span> Klasifikasi Surat</h2>
 </div>
 <!-- PAGE CONTENT WRAPPER -->
 <div class="page-content-wrap">

@@ -1,5 +1,5 @@
 <li class="xn-openable">
-    <a href="#"><span class="fa fa-home"></span> <span class="xn-text">Beranda</span></a>
+    <a href="<?php redirect('dashboard');?>"><span class="fa fa-home"></span> <span class="xn-text">Beranda</span></a>
 </li>
 <li class="xn-openable">
     <a href="#"><span class="fa fa-list"></span> <span class="xn-text">Referensi</span></a>
