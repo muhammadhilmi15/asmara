@@ -2,7 +2,7 @@
 $user = $this->session->userdata('username');
 $level = $this->session->userdata('level');
 if (!isset($user)) {
-  header("location:login");
+  header("location:Login");
 }
 $p=htmlentities($this->input->get('p'));
 ?>
